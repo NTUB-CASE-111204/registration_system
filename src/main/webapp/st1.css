@@ -1,0 +1,49 @@
+@charset "BIG5";
+
+.title {
+	width: 60%;
+	height: 120px;
+	background: #48cae4;
+	margin-left: 20%;
+}
+
+.t1 {
+	color: white;
+	font-size: 40px;
+	position: relative;
+	left: 35%;
+	top: 15%;
+}
+
+.navigator {
+	width: 60%;
+	height: 30px;
+	background: #0077b6;
+	margin-left: 20%;
+	color: white;
+}
+
+.n1 {
+	position: relative;
+	left: 80%;
+}
+
+.content {
+	width: 60%;
+	height: 400px;
+	background: #ade8f4;
+	margin-left: 20%;
+}
+
+.footer {
+	width: 60%;
+	height: 50px;
+	background: #0077b6;
+	margin-left: 20%;
+	color: white;
+}
+
+.f1 {
+	position: relative;
+	left: 40%;
+}
